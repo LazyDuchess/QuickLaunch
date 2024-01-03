@@ -1,0 +1,9 @@
+{
+    "name": "PhotoStorage",
+    "version_number": "1.0.0",
+    "website_url": "https://github.com/LazyDuchess/BRC-PhotoStorage",
+    "description": "Increases the capacity of the phone camera.",
+    "dependencies": [
+        "BepInEx-BepInExPack-5.4.2100"
+    ]
+}
